@@ -35,16 +35,17 @@ User password needs to be secured
 Some of the pages and functionality need to be secured for the type of user (anonymous / registered user)
 
 **Functionality:**
-		Anonymous user:
-            - Should be able to search for recipes
-            - Should be able to filter recipe based on diet preference
-            - Should be able to filter recipe by time 
 		
-		Registered user can
-            - Favorite a recipe
-            - Add a recipe
-            - Create grocery list 
-            - Review a recipe
+ >Anonymous user can
+ >- Search for recipes
+ >- Filter recipe based on diet preference
+ >- Filter recipe by preparation time 
+		
+>Registered user can
+> - Favorite a recipe
+> - Add a recipe
+> - Create grocery list 
+> - Review a recipe
 
 **Flow:**
 
